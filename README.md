@@ -1,9 +1,9 @@
-Sudoku Puzzle Solver
+# Sudoku Puzzle Solver
 
-Developer: Katrina Sitkovits
-Email: katrina.sitkovits@gmail.com
-Date: Nov. 3, 2014
-Programming Langugage: C++
+## Developer: Katrina Sitkovits
+## Email: katrina.sitkovits@gmail.com
+## Date: Nov. 3, 2014
+## Programming Langugage: C++
 
 This Sudoku puzzle solver program accepts a CSV or white-space delimitted
 puzzle and produces a solved CSV file in the same directory using the 
